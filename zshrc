@@ -34,7 +34,7 @@ alias update='sudo apt update; sudo apt upgrade -y; sudo apt dist-upgrade -y'
 
 # GIT
 alias gs='git status'
-alias ga='git add .'
+alias ga='git add'
 alias gp='git push origin'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
